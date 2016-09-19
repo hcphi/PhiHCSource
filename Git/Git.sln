@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git", "Git\Git.csproj", "{137EA51C-BB00-4035-99EE-27FB9A587B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137EA51C-BB00-4035-99EE-27FB9A587B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137EA51C-BB00-4035-99EE-27FB9A587B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137EA51C-BB00-4035-99EE-27FB9A587B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137EA51C-BB00-4035-99EE-27FB9A587B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+c:\users\phihc\documents\visual studio 2012\Projects\Git\Git\bin\Debug\Git.exe.config
