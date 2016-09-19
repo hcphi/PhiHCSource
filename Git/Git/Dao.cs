@@ -10,7 +10,7 @@ namespace Git
     {
         public void Print()
         {
-            Console.WriteLine("Develop");
+            Console.WriteLine("day la phan chinh sua Develop");
         }
     }
 }
