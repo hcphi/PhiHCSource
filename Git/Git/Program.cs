@@ -10,6 +10,8 @@ namespace Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Develop");
+            Console.WriteLine("Dev2");
         }
     }
 }
