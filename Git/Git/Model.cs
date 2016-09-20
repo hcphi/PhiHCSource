@@ -8,6 +8,6 @@ namespace Git
 {
     class Model
     {
-       
+        private Model ;
     }
 }
